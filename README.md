@@ -1,5 +1,5 @@
 # Arduino UI for Embedded Systems Project at Defang Software Labs (Static)
-*Note: This repository version is named "static" as there is no wifi networking involved. For the networking version of this project, please see the `/defang-arduino` repository.*
+*Note: This repository version is named "static" as there is no wifi networking involved. For the networking version of this project, please see the `/defang-arduino` repository [here](https://github.com/commit111/defang-arduino-wifi/).*
 
 ![project image](./images/static.png)
 
