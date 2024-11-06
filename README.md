@@ -1,4 +1,4 @@
-# Interactive UI for Embedded Systems Project at Defang Software Labs (Static)
+# Arduino UI for Embedded Systems Project at Defang Software Labs (Static)
 *Note: This repository version is named "static" as there is no wifi networking involved. For the networking version of this project, please see the `/defang-arduino` repository.*
 
 ![project image](./images/static.png)
